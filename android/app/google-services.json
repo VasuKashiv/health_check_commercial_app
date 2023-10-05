@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55444229541",
+    "project_id": "labtest-bfdc2",
+    "storage_bucket": "labtest-bfdc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55444229541:android:9cc191b5ba76028264ac4c",
+        "android_client_info": {
+          "package_name": "com.example.health_check"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI55Ly70_m2r-8yhLEWGQXl3i8eWmzaqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
